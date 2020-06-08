@@ -1,0 +1,414 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Dashboard</title>
+    <script src="~/Assets/plugins/jquery/jquery.min.js"></script>
+    <script src="~/Scripts/home.js"></script>
+
+    <script src="~/Assets/plugins/chart.js/Chart.min.js"></script>
+    <script src="~/Assets/plugins/chart.js/Chart.js"></script>
+    <script src="~/Scripts/trend.js"></script>
+    @*<script src="~/Scripts/chartjsTest.js"></script>*@
+
+
+    @*<script src="~/Scripts/jQueryGoogleChart/loader.js"></script>
+        <script src="~/Scripts/jQueryGoogleChart/veChart.js"></script>*@
+
+</head>
+
+<body>
+    <div class="content-wrapper">
+        <!-- Content Header (Page header) -->
+        <div class="content-header">
+            <div class="container-fluid">
+                <div class="row mb-2">
+                    <div class="col-sm-6">
+                        <h1 class="m-0 text-dark">Dashboard</h1>
+                    </div><!-- /.col -->
+                    <div class="col-sm-6">
+                        <ol class="breadcrumb float-sm-right">
+                            <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+                            <li class="breadcrumb-item active">Dashboard</li>
+                        </ol>
+                    </div><!-- /.col -->
+                </div><!-- /.row -->
+            </div><!-- /.container-fluid -->
+        </div>
+        <!-- /.content-header -->
+        <!-- Main content -->
+        <section class="content">
+            <div class="container-fluid">
+                <!-- Small boxes (Stat box) -->
+                <div class="row">
+                    <!-- Left col  hien thi các giá trị đo đạc-->
+                    <div class="col-sm-4">
+                        <div class="card card-warning">
+                            <!-- /.card-header -->
+                            <div class="card-header">
+                                <h3 class="card-title">
+                                    <i class="fas fa-chalkboard"></i>
+                                    Thông số giám sát
+                                </h3>
+                            </div>
+                            <!-- /.card-body -->
+                            <div class="card-body">
+                                <div class="row">
+                                    <!-- Nhiet do -->
+                                    <div class="col-sm-6">
+                                        <div class="info-box m-3 bg-gradient-info">
+                                            <span class="info-box-icon "><i class="fas fa-thermometer-empty"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h4>
+                                                    <span id="labNhietDo">
+                                                        000.0
+                                                    </span>
+                                                </h4>
+                                                <span>Nhiệt Độ</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Do Am -->
+                                    <div class="col-sm-6">
+                                        <div class="info-box m-3 bg-gradient-info">
+                                            <span class="info-box-icon "><i class="fas fa-thermometer-empty"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h4>
+                                                    <span id="labDoAm">
+                                                        000.0
+                                                    </span>
+                                                </h4>
+                                                <p>Độ Ẩm</p>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                    </div>
+                                    <!-- Tan So -->
+                                    <div class="col-sm-6">
+                                        <div class="info-box m-3 bg-gradient-info">
+                                            <span class="info-box-icon "><img style="width:30px; height:30px" src="~/Assets/dist/img/tanso.png" /></span>
+
+                                            <div class="info-box-content">
+                                                <h4>
+                                                    <span id="labTanSo">
+                                                        000.0
+                                                    </span>
+                                                </h4>
+                                                <p>Tần Số</p>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                    </div>
+                                    <!-- O2 -->
+                                    <div class="col-sm-6">
+                                        <div class="info-box m-3 bg-gradient-info">
+                                            <span class="info-box-icon "><img style="width:30px; height:30px" src="~/Assets/dist/img/o2.png" /></span>
+
+                                            <div class="info-box-content">
+                                                <h4>
+                                                    <span id="labO2">
+                                                        000.0
+                                                    </span>
+                                                </h4>
+                                                <p>O2</p>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                    </div>
+                                    <!-- CO2 -->
+                                    <div class="col-sm-6">
+                                        <div class="info-box m-3 bg-gradient-info">
+                                            <span class="info-box-icon "><img style="width:30px; height:30px" src="~/Assets/dist/img/co2.png" /></i></span>
+
+                                            <div class="info-box-content">
+                                                <h4>
+                                                    <span id="labCO2">
+                                                        000.0
+                                                    </span>
+                                                </h4>
+                                                <p>CO2</p>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                    </div>
+                                    <!-- NH3 -->
+                                    <div class="col-sm-6">
+                                        <div class="info-box m-3 bg-gradient-info">
+                                            <span class="info-box-icon "><img style="width:30px; height:30px" src="~/Assets/dist/img/nh3.png" /></span>
+
+                                            <div class="info-box-content">
+                                                <h4>
+                                                    <span id="labNH3">
+                                                        000.0
+                                                    </span>
+                                                </h4>
+                                                <p>NH3</p>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ./Right col -->
+                    <div class="col-sm-8">
+                        <!-- LINE CHART -->
+                        <div class="card card-warning">
+                            <div class="card-header">
+                                <h3 class="card-title">
+                                    <i class="fas fa-chart-line"></i> Biểu đồ
+                                </h3>
+                            </div>
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="chart col-sm-12">
+                                        <canvas id="chartLine" width="400" height="400"></canvas>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <input type="button" id="randomizeData" value="Randomize Data" />
+                                        <input type="button" id="addDataset" value="Add Dataset" />
+                                        <input type="button" id="removeDataset" value="Remove Dataset" />
+                                        <input type="button" id="addData" value="Add Data" />
+                                        <input type="button" id="removeData" value="Remove Data" />
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /.card-body -->
+                        </div>
+                        <!-- /.card -->
+
+                    </div>
+                    <!-- /.row -->
+                </div>
+
+                <!-- row trang thai quat, dan mat  -->
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="card card-warning">
+                            <div class="card-header">
+                                <h3 class="card-title">
+                                    <i class="fas fa-chalkboard mr-1"></i>
+                                    Trạng thái thiết bị
+                                </h3>
+                            </div>
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-sm-2">
+                                        <!-- Info Boxes Style 2 -->
+                                        <div class="info-box mb-3 bg-success">
+                                            <span class="info-box-icon"><i class="fas fa-fan"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h5>
+                                                    <span id="labQuat1">Đang dừng</span>
+                                                </h5>
+                                                <span>Quạt 1</span>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                        <!-- /.info-box -->
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <!-- Info Boxes Style 2 -->
+                                        <div class="info-box mb-3 bg-success">
+                                            <span class="info-box-icon"><i class="fas fa-fan"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h5>
+                                                    <span id="labQuat2">Đang dừng</span>
+                                                </h5>
+                                                <span>Quạt 2</span>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                        <!-- /.info-box -->
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <!-- Info Boxes Style 2 -->
+                                        <div class="info-box mb-3 bg-success">
+                                            <span class="info-box-icon"><i class="fas fa-fan"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h5>
+                                                    <span id="labQuat3">Đang dừng</span>
+                                                </h5>
+                                                <span>Quạt 3</span>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                        <!-- /.info-box -->
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <!-- Info Boxes Style 2 -->
+                                        <div class="info-box mb-3 bg-success">
+                                            <span class="info-box-icon"><i class="fas fa-fan"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h5>
+                                                    <span id="labQuat4">Đang dừng</span>
+                                                </h5>
+                                                <span>Quạt 4</span>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                        <!-- /.info-box -->
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <!-- Info Boxes Style 2 -->
+                                        <div class="info-box mb-3 bg-success">
+                                            <span class="info-box-icon"><i class="fas fa-fan"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h5>
+                                                    <span id="labQuat5">Đang dừng</span>
+                                                </h5>
+                                                <span>Quạt 5</span>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                        <!-- /.info-box -->
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <!-- Info Boxes Style 2 -->
+                                        <div class="info-box mb-3 bg-success">
+                                            <span class="info-box-icon"><i class="fas fa-fan"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h5>
+                                                    <span id="labQuat6">Đang dừng</span>
+                                                </h5>
+                                                <span>Quạt 6</span>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                        <!-- /.info-box -->
+                                    </div>
+
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-2">
+                                        <!-- Info Boxes Style 2 -->
+                                        <div class="info-box mb-3 bg-success">
+                                            <span class="info-box-icon"><i class="fas fa-fan"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h5>
+                                                    <span id="labQuat7">Đang dừng</span>
+                                                </h5>
+                                                <span>Quạt 7</span>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                        <!-- /.info-box -->
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <!-- Info Boxes Style 2 -->
+                                        <div class="info-box mb-3 bg-success">
+                                            <span class="info-box-icon"><i class="fas fa-fan"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h5>
+                                                    <span id="labQuat8">Đang dừng</span>
+                                                </h5>
+                                                <span>Quạt 8</span>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                        <!-- /.info-box -->
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <!-- Info Boxes Style 2 -->
+                                        <div class="info-box mb-3 bg-success">
+                                            <span class="info-box-icon"><i class="fas fa-fan"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h5>
+                                                    <span id="labQuat9">Đang dừng</span>
+                                                </h5>
+                                                <span>Quạt 9</span>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                        <!-- /.info-box -->
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <!-- Info Boxes Style 2 -->
+                                        <div class="info-box mb-3 bg-success">
+                                            <span class="info-box-icon"><i class="fas fa-fan"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h5>
+                                                    <span id="labQuat10">Đang dừng</span>
+                                                </h5>
+                                                <span>Quạt 10</span>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                        <!-- /.info-box -->
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <!-- Info Boxes Style 2 -->
+                                        <div class="info-box mb-3 bg-success">
+                                            <span class="info-box-icon"><i class="fas fa-fan"></i></span>
+
+                                            <div class="info-box-content">
+                                                <h5>
+                                                    <span id="labDanMat">Đang dừng</span>
+                                                </h5>
+                                                <span>Dàn mát</span>
+                                            </div>
+                                            <!-- /.info-box-content -->
+                                        </div>
+                                        <!-- /.info-box -->
+                                    </div>
+                                </div>
+                                <!-- ./col -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.container-fluid -->
+            </div>
+
+        </section>
+        <!-- /.content -->
+    </div>
+
+    @*tao popUp*@
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <form>
+                        @*<div class="form-group">
+                                <label for="EmployeeId">ID</label>
+                                <input type="text" class="form-control" id="EmployeeID" placeholder="Id" disabled="disabled" />
+                            </div>*@
+                        <div class="form-group">
+                            <label for="luckyNum">Lucky Num</label>
+                            <input type="text" class="form-control" id="luckyNum" placeholder="Lucky Num" />
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="btnUpdate">Update</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

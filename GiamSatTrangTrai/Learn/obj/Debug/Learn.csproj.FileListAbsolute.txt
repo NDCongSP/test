@@ -1,0 +1,423 @@
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\Learn.dll.config
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\Learn.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\Learn.pdb
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\csc.exe
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\csc.exe.config
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\csc.rsp
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\csi.exe
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\csi.exe.config
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\csi.rsp
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.Managed.Core.targets
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.AppContext.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Collections.Immutable.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Console.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.IO.Compression.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.IO.FileSystem.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.IO.Pipes.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Reflection.Metadata.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.AccessControl.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Claims.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Principal.Windows.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.ValueTuple.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Xml.XmlDocument.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Xml.XPath.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\vbc.exe
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\vbc.exe.config
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\vbc.rsp
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\VBCSCompiler.exe
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\roslyn\VBCSCompiler.exe.config
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\Microsoft.Web.Infrastructure.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\Newtonsoft.Json.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Net.Http.Formatting.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Helpers.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Http.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Http.WebHost.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Mvc.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Razor.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.Deployment.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.Razor.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Razor.xml
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.xml
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.Deployment.xml
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.Razor.xml
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Helpers.xml
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Mvc.xml
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\Newtonsoft.Json.xml
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Net.Http.Formatting.xml
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Http.xml
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\System.Web.Http.WebHost.xml
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\obj\Debug\Learn.csproj.CoreCompileInputs.cache
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\obj\Debug\Learn.csproj.CopyComplete
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\obj\Debug\Learn.dll
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\obj\Debug\Learn.pdb
+E:\hoc tap\code\html_CSS\WebApplication1\Learn\obj\Debug\Learn.csprojAssemblyReference.cache
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\Learn.dll.config
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\Learn.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\Learn.pdb
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\csc.exe
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\csc.exe.config
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\csc.rsp
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\csi.exe
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\csi.exe.config
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\csi.rsp
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.AppContext.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Collections.Immutable.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Console.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.IO.Compression.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.IO.FileSystem.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.IO.Pipes.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Reflection.Metadata.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.AccessControl.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Claims.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.ValueTuple.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Xml.XPath.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\vbc.exe
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\vbc.exe.config
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\vbc.rsp
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\VBCSCompiler.exe
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\roslyn\VBCSCompiler.exe.config
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\Microsoft.Web.Infrastructure.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\Newtonsoft.Json.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Net.Http.Formatting.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Helpers.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Http.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Http.WebHost.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Mvc.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Razor.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.Deployment.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.Razor.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Razor.xml
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.xml
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.Deployment.xml
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Webpages.Razor.xml
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Helpers.xml
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Mvc.xml
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\Newtonsoft.Json.xml
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Net.Http.Formatting.xml
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Http.xml
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\System.Web.Http.WebHost.xml
+D:\Learn\code\html_CSS\WebApplication1\Learn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Learn\code\html_CSS\WebApplication1\Learn\obj\Debug\Learn.csprojAssemblyReference.cache
+D:\Learn\code\html_CSS\WebApplication1\Learn\obj\Debug\Learn.csproj.CoreCompileInputs.cache
+D:\Learn\code\html_CSS\WebApplication1\Learn\obj\Debug\Learn.csproj.CopyComplete
+D:\Learn\code\html_CSS\WebApplication1\Learn\obj\Debug\Learn.dll
+D:\Learn\code\html_CSS\WebApplication1\Learn\obj\Debug\Learn.pdb
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\Learn.dll.config
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\Learn.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\Learn.pdb
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\csc.exe
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\csc.exe.config
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\csc.rsp
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\csi.exe
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\csi.exe.config
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\csi.rsp
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.AppContext.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Collections.Immutable.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Console.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.IO.Compression.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.IO.FileSystem.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.IO.Pipes.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Reflection.Metadata.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Security.AccessControl.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Security.Claims.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.ValueTuple.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Xml.XPath.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\vbc.exe
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\vbc.exe.config
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\vbc.rsp
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\VBCSCompiler.exe
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\roslyn\VBCSCompiler.exe.config
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\Microsoft.Web.Infrastructure.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\Models.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\Newtonsoft.Json.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Net.Http.Formatting.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Helpers.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Http.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Http.WebHost.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Mvc.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Razor.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Webpages.Deployment.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Webpages.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Webpages.Razor.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\MySql.Data.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\EntityFramework.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\Models.pdb
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\Models.dll.config
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Razor.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Webpages.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Webpages.Deployment.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Webpages.Razor.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Helpers.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Mvc.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\Newtonsoft.Json.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Net.Http.Formatting.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Http.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\System.Web.Http.WebHost.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\bin\EntityFramework.xml
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\obj\Debug\Learn.csprojAssemblyReference.cache
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\obj\Debug\Learn.csproj.CoreCompileInputs.cache
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\obj\Debug\Learn.csproj.CopyComplete
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\obj\Debug\Learn.dll
+D:\ATPro\DangLam\PhanMemGoiSTTTraSuaChuLiem\SourceCode\WebApplication1\Learn\obj\Debug\Learn.pdb
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Learn.dll.config
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Learn.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Learn.pdb
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csc.exe
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csc.exe.config
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csc.rsp
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csi.exe
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csi.exe.config
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csi.rsp
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.AppContext.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Collections.Immutable.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Console.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.IO.Compression.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.IO.FileSystem.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.IO.Pipes.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Reflection.Metadata.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.AccessControl.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Claims.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.ValueTuple.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Xml.XPath.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\vbc.exe
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\vbc.exe.config
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\vbc.rsp
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\VBCSCompiler.exe
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\VBCSCompiler.exe.config
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\AjaxControlToolkit.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\ATPropertyEditor.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\iTools.Web.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.Web.Infrastructure.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Models.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Newtonsoft.Json.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Net.Http.Formatting.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Helpers.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Http.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Http.WebHost.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Mvc.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Razor.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.Deployment.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.Razor.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\MySql.Data.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\EntityFramework.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\HtmlAgilityPack.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\AjaxMin.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\GoogleChartsNGraphsControls.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.Data.OData.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Visualization.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.Data.Edm.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Spatial.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Models.pdb
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Models.dll.config
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Razor.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.Deployment.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.Razor.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Helpers.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Mvc.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Newtonsoft.Json.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Net.Http.Formatting.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Http.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Http.WebHost.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\bin\EntityFramework.xml
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\obj\Debug\Learn.csprojAssemblyReference.cache
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\obj\Debug\Learn.csproj.CoreCompileInputs.cache
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\obj\Debug\Learn.csproj.CopyComplete
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\obj\Debug\Learn.dll
+D:\Works\DuAn\MrTham\SourceCode\GiamSatTrangTrai\Learn\obj\Debug\Learn.pdb
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Learn.dll.config
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Learn.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Learn.pdb
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csc.exe
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csc.exe.config
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csc.rsp
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csi.exe
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csi.exe.config
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\csi.rsp
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.AppContext.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Collections.Immutable.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Console.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.IO.Compression.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.IO.FileSystem.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.IO.Pipes.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Reflection.Metadata.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.AccessControl.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Claims.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.ValueTuple.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Xml.XPath.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\vbc.exe
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\vbc.exe.config
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\vbc.rsp
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\VBCSCompiler.exe
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\roslyn\VBCSCompiler.exe.config
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\AjaxControlToolkit.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\ATPropertyEditor.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\iTools.Web.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.Web.Infrastructure.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Models.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Newtonsoft.Json.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Net.Http.Formatting.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Helpers.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Http.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Http.WebHost.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Mvc.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Razor.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.Deployment.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.Razor.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\MySql.Data.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\HtmlAgilityPack.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\AjaxMin.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\GoogleChartsNGraphsControls.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.Data.OData.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Visualization.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.Data.Edm.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Spatial.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Models.pdb
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Models.dll.config
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Razor.xml
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.xml
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.Deployment.xml
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Webpages.Razor.xml
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Helpers.xml
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Mvc.xml
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Newtonsoft.Json.xml
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Net.Http.Formatting.xml
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Http.xml
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\System.Web.Http.WebHost.xml
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\obj\Debug\Learn.csprojAssemblyReference.cache
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\obj\Debug\Learn.csproj.CoreCompileInputs.cache
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\obj\Debug\Learn.csproj.CopyComplete
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\obj\Debug\Learn.dll
+D:\Works\DuAn\MrTham\TraiGa\SourceCode\GiamSatTrangTrai\Learn\obj\Debug\Learn.pdb

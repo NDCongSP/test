@@ -1,0 +1,87 @@
+﻿@model  List<Models.Framework.DataModel>
+@{
+    ViewBag.Title = "Report";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content-wrapper">
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h4 class="m-0 text-dark">Report</h4>
+                </div><!-- /.col -->
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href=@Url.Action("Index","Home")>Home</a></li>
+                        <li class="breadcrumb-item active">Report</li>
+                    </ol>
+                </div><!-- /.col -->
+            </div><!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+    <!-- Main content -->
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title">
+                                <i class="fas fa-chalkboard"></i>
+                                Report Chi Tiết
+                            </h3>
+                        </div>
+                        <div class="card-body">
+                            <table id="example1" class="table table-bordered table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>Thời gian</th>
+                                        <th>Nhiệt độ</th>
+                                        <th>Độ ẩm</th>
+                                        <th>Tần số</th>
+                                        <th>O2</th>
+                                        <th>CO2</th>
+                                        <th>NH3</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        @foreach (var item in Model)
+                                        {
+                                            <td>@item.id</td>
+                                            <td>
+                                                @item.thoiGian
+                                            </td>
+                                            <td>@item.nhietDo</td>
+                                            <td>@item.doAm</td>
+                                            <td>@item.tanSo</td>
+                                            <td>@item.o2</td>
+                                            <td>@item.co2</td>
+                                            <td>@item.nh3</td>
+                                        }
+                                    </tr>
+                                </tbody>
+                                <tfoot>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>Thời gian</th>
+                                        <th>Nhiệt độ</th>
+                                        <th>Độ ẩm</th>
+                                        <th>Tần số</th>
+                                        <th>O2</th>
+                                        <th>CO2</th>
+                                        <th>NH3</th>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.container-fluid -->
+    </section>
+    <!-- /.content -->
+</div>
